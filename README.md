@@ -26,11 +26,14 @@ I built those tools during my internship, then tested the assumption against ass
 
 ## Charts
 
-![Distribution of improvement scores](docs/figures/improvement_distribution.png)
+[![Distribution of improvement scores](improvement_distribution.png)](improvement_distribution.png)
 
-![Change in CEFR band, Mid-Term to Final](docs/figures/cefr_band_change.png)
 
-![Cohort activity by week](docs/figures/weekly_activity_trend.png)
+![Change in CEFR band, Mid-Term to Final](cefr_band_change.png)
+
+
+[![Cohort activity by week](weekly_activity_trend.png)](weekly_activity_trend.png)
+
 
 ## Recommendations for the dashboard
 
